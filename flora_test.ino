@@ -1,5 +1,6 @@
 
 // Pin D7 has an LED connected on FLORA.
+// Pin D7 has an LED connected on FLORA.
 // give it a name:
 int led = 7;
 
